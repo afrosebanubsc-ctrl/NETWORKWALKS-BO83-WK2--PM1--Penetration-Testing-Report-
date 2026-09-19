@@ -266,7 +266,6 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img width="1887" height="990" alt="Harvester" src="https://github.com/user-attachments/assets/747093f1-9d73-4207-9a1a-0100da05ed4f" />
 <img width="1916" height="850" alt="WAF" src="https://github.com/user-attachments/assets/f724479a-5bdf-4afd-8388-b9ba709741ee" />
 <img width="1057" height="717" alt="Zenmap installation" src="https://github.com/user-attachments/assets/57de5b00-1a02-4de1-b19e-d7218b1d2dfb" />
-<img width="1057" height="717" alt="Zenmap installation" src="https://github.com/user-attachments/assets/191b9304-09bf-44a0-8c29-cc03b3dcc87a" />
 <img width="1157" height="677" alt="zenmap - ping scan" src="https://github.com/user-attachments/assets/15ae41f4-8146-4937-9a69-c06cd2502c20" />
 <img width="1020" height="717" alt="Zenmap - topology" src="https://github.com/user-attachments/assets/5c13e190-dbed-4625-856d-7c7b48ead5b8" />
 
