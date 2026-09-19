@@ -255,17 +255,15 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 # 8. Evidences Collected
 
-The following evidence should be attached to the final report:
+<img width="1236" height="986" alt="Whois" src="https://github.com/user-attachments/assets/10915afc-ac01-4e51-a0da-28ff50333e39" />
+<img width="1912" height="992" alt="Whatweb" src="https://github.com/user-attachments/assets/6f3daad8-1282-4ca0-a226-b6cbe4d666a5" />
+<img width="1917" height="926" alt="nslookup" src="https://github.com/user-attachments/assets/54b38a7d-07d2-4848-9e21-bf5f65bdd124" />
+<img width="1902" height="931" alt="curl" src="https://github.com/user-attachments/assets/c59b3f11-296a-4441-839a-1216392b3529" />
+<img width="1915" height="870" alt="DNS" src="https://github.com/user-attachments/assets/d6dcdcde-5780-4958-85d7-0ae07f763ec9" />
+<img width="1887" height="990" alt="Harvester" src="https://github.com/user-attachments/assets/747093f1-9d73-4207-9a1a-0100da05ed4f" />
+<img width="1916" height="850" alt="WAF" src="https://github.com/user-attachments/assets/f724479a-5bdf-4afd-8388-b9ba709741ee" />
+<img width="1057" height="717" alt="Zenmap installation" src="https://github.com/user-attachments/assets/57de5b00-1a02-4de1-b19e-d7218b1d2dfb" />
+<img width="1057" height="717" alt="Zenmap installation" src="https://github.com/user-attachments/assets/191b9304-09bf-44a0-8c29-cc03b3dcc87a" />
+<img width="1157" height="677" alt="zenmap - ping scan" src="https://github.com/user-attachments/assets/15ae41f4-8146-4937-9a69-c06cd2502c20" />
+<img width="1020" height="717" alt="Zenmap - topology" src="https://github.com/user-attachments/assets/5c13e190-dbed-4625-856d-7c7b48ead5b8" />
 
-* WHOIS command and output screenshot
-* WhatWeb command and output screenshot
-* Nslookup command and output screenshot
-* Curl HTTP headers screenshot
-* Wafw00f command and output screenshot
-* DNSRecon command and output screenshot
-* theHarvester command and output screenshot
-* Windows `ipconfig` screenshot
-* Zenmap Ping Scan screenshot
-* Zenmap host discovery results
-* Zenmap MAC address information
-* Zenmap network topology screenshot/PDF
