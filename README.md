@@ -269,3 +269,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img width="1157" height="677" alt="zenmap - ping scan" src="https://github.com/user-attachments/assets/15ae41f4-8146-4937-9a69-c06cd2502c20" />
 <img width="1020" height="717" alt="Zenmap - topology" src="https://github.com/user-attachments/assets/5c13e190-dbed-4625-856d-7c7b48ead5b8" />
 
+👤 Author
+Afrose Banu
+Cybersecurity Professional B083
+
+📌 Project Information
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
