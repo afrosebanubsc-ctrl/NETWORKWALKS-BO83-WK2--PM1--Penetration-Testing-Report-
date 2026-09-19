@@ -152,12 +152,15 @@ I then entered the subnet into Zenmap and selected **Ping Scan** to identify act
 
 The example results provided in the practical identified four live hosts:
 
-* `10.0.0.1`
-* `10.0.0.4`
-* `10.0.0.19`
-* `10.0.0.5`
+* `10.0.2.2`
+* `10.0.2.3`
+* `10.0.2.15`
 
-The example results also included four MAC addresses.
+The example results also included 2 MAC addresses.
+
+10.0.2.15 - 08-00-27-AB-8A-49 ( own pc)
+10.0.2.2 - 52-54-00-12-35-00 ( QEMU virtual NAC)
+10.0.2.3 - 52-54-00-12-35-00 ( QEMU virtual NAC)
 
 After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
